@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "min_format": [
+      94,
+      1
+    ],
+    "max_format": 94,
+    "description": "mctiers worldgen by loloed & walksy & quelchi :3 (that did structure tags) (stripped to only have worldgen)"
+  }
+}
